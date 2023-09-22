@@ -1,6 +1,6 @@
 {
   "name": "beta-fhr",
-  "version": "5.3.8-nxt",
+  "version": "5.4.2-nxt",
   "description": "A Facebook-Chat-API deployed by Kanzu and HZI Team, Remade by Jake Dev",
   "main": "Index.js",
   "scripts": {
